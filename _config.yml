@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dra. Caterina Fuster-Barceló"
+title                    : "Lucía Scjmidt-Santiago"
 title_separator          : "-"
-name                     : &name "Caterina Fuster-Barceló"
-description              : &description "Post-Doctoral Researcher"
-url                      : https://cfusterbarcelo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lucía Schmidt-Santiago"
+description              : &description "Pre-Doctoral Researcher"
+url                      : https://luciaschmidtsantiago.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cfusterbarcelo/cfusterbarcelo.github.io"
+repository               : "luciaschmidtsantiago/luciaschmidtsantiago.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Caterina Fuster-Barceló"
+  name             : "Lucía Schmidt-Santiago"
   avatar           : "profile.png"
-  bio              : "Post-Doctoral Researcher"
+  bio              : "Pre-Doctoral Researcher"
   location         : "Madrid, Spain"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ZixHYZYAAAAJ&hl=es"
-  email            : "cafuster@pa.uc3m.es"
+  googlescholar    : "https://scholar.google.es/citations?user=zE24E20AAAAJ&hl=es&oi=ao"
+  email            : "lschmidt@pa.uc3m.es"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cfusterbarcelo"
+  github           : "luciaschmidtsantiago"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "caterinafusterb"
-  orcid            : "0000-0002-4784-6957"
+  linkedin         : "luciaschmidtsantiago"
+  orcid            : "0009-0005-5754-4441"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "cfusterbarcelo" 
+  twitter          : "luciaschmidts" 
   vine             :
   weibo            :
   xing             :
