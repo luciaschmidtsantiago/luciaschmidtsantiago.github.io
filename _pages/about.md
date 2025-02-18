@@ -30,7 +30,7 @@ My main interests are:
 - Bioengineering
 - Machine Learning
 - Generative Artificial Intelligence
-- Signal Treatment
+- Signal Processing
 
 
 ## Last news
@@ -41,10 +41,10 @@ My main interests are:
 
 Short Bio
 ------
-* PhD student in Signal Processing and Communications Engineering at [ML4DS - Machine Learning for Data Science](https://www.uc3m.es/ss/Satellite/GruposInvestigacion/es/Detalle/Organismo_C/1371210502854/1371325143833/?d=Touch) in UC3M, Madrid, Spain. Focused on generative AI in microbiology. 
-* Predoctoral researcher at [BSEL - Biomedical Sciences AND Engineering Laboratory](https://www.uc3m.es/ss/Satellite/GruposInvestigacion/en/Detalle/Organismo_C/1371353738082/1371325143833/BSEL_-_Biomedical_Sciences_and_Engineering_Laboratory) in UC3M, Madrid, Spain. Focused on bioimage analysis. 
+* PhD student in Signal Processing and Communications Engineering at [ML4DS - Machine Learning for Data Science](https://www.uc3m.es/ss/Satellite/GruposInvestigacion/es/Detalle/Organismo_C/1371210502854/1371325143833/?d=Touch) at UC3M, Madrid, Spain. Focused on generative AI in microbiology. 
+* Research assistant at [BSEL - Biomedical Sciences AND Engineering Laboratory](https://www.uc3m.es/ss/Satellite/GruposInvestigacion/en/Detalle/Organismo_C/1371353738082/1371325143833/BSEL_-_Biomedical_Sciences_and_Engineering_Laboratory) at UC3M, Madrid, Spain. Focused on bioimage analysis. 
 * MSc in Cibersecurity at [UC3M](https://www.uc3m.es/), Madrid, Spain.
 * Software engineer at [GMV](https://www.gmv.com/), Madrid, Spain.
-* Predoctoral researcher at [PROMISE LAIMBIO Laboratory](https://www.urjc.es/i-d-i/centro-de-apoyo-tecnologico-cat-y-redlabu/424-laboratorio-de-analisis-de-imagen-medica-y-biometria-laimbio) in URJC, Madrid, Spain.
-* Predoctoral researcher at [Centro de Protonterapia Quironsalud](https://www.quironsalud.com/protonterapia), Madrid, Spain.
+* Research assistant at [PROMISE LAIMBIO Laboratory](https://www.urjc.es/i-d-i/centro-de-apoyo-tecnologico-cat-y-redlabu/424-laboratorio-de-analisis-de-imagen-medica-y-biometria-laimbio) at URJC, Madrid, Spain.
+* Research assistant at [Centro de Protonterapia Quironsalud](https://www.quironsalud.com/protonterapia), Madrid, Spain.
 * BSc in Biomedical Engineering at [URJC](https://www.urjc.es/), Madrid, Spain.
