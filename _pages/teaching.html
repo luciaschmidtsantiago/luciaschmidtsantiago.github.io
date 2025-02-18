@@ -7,6 +7,84 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<script>
+function toggleSection(sectionId) {
+  var sectionContent = document.getElementById(sectionId);
+  var toggleIcon = document.getElementById("toggle-icon-" + sectionId);
+  
+  if (sectionContent.style.display === "none") {
+    sectionContent.style.display = "block";
+    toggleIcon.innerHTML = "-";
+  } else {
+    sectionContent.style.display = "none";
+    toggleIcon.innerHTML = "+";
+  }
+}
+</script>
+
+<style>
+.section-toggle {
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.section-content {
+  display: none;
+  margin-bottom: 20px;
+}
+
+.toggle-icon {
+  margin-left: 5px;
+}
+</style>
+
+<!-- Undergraduate Courses -->
+<!-- <h2 class="section-toggle" onclick="toggleSection('undergraduate-section')">Undergraduate Courses <span id="toggle-icon-undergraduate-section" class="toggle-icon">+</span></h2>
+<div id="undergraduate-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Undergraduate course" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div> -->
+
+<!-- Bachelor Thesis -->
+<h2 class="section-toggle" onclick="toggleSection('bt-section')">Bachelor Thesis <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
+<div id="bt-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Bachelor Thesis" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Master Programs -->
+<h2 class="section-toggle" onclick="toggleSection('master-section')">Master Programs <span id="toggle-icon-master-section" class="toggle-icon">+</span></h2>
+<div id="master-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Master course" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<!-- Master Thesis -->
+<!-- <h2 class="section-toggle" onclick="toggleSection('mt-section')">Master Thesis <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
+<div id="mt-section" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Master Thesis" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div> -->
+
+
+<!-- Workshops -->
+<h2 class="section-toggle" onclick="toggleSection('workshop')">Corporate Training <span id="toggle-icon-corporate-section" class="toggle-icon">+</span></h2>
+<div id="workshop" class="section-content">
+  {% for post in site.teaching %}
+    {% if post.type == "Worskhop" %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
+</div>
